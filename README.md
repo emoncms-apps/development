@@ -1,4 +1,4 @@
-## Colaboration and development of the Android app and iOS app alongside the browser based Web apps for emoncms. 
+## Colaboration and development of the [Android app](https://github.com/emoncms-apps/AndroidApp) and [iOS app]() alongside the browser based [Web apps](https://github.com/emoncms-apps/app) for emoncms. 
 
 ###This is intended to be a central issue tracker for all the emoncms apps during development.
 
